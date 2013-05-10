@@ -1,0 +1,18 @@
+# noatime
+
+Set `noatime` flag on the root partition.
+
+## Usage (OS X)
+
+1. `brew install coreutils`
+2. `sudo make install`
+
+## Authors
+
+© 2013 Tom Vincent <http://tlvince.com/contact>
+
+## License
+
+Released under the [MIT License][license].
+
+  [license]: https://github.com/feross/SpoofMAC#mit-license
